@@ -1,4 +1,8 @@
-# **Kumud Singh Porte**
+<p align="center">
+  <img src="me.jpg" alt="Kumud Porte" width="150" style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.3);" />
+</p>
+
+# Kumud Singh Porte
 <!---
 
 📧 **Email:** [kumudporte0805@gmail.com](mailto:kumudporte0805@gmail.com)  
