@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/me.jpg" alt="Kumud Porte"  style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.3);" />
+  <img src="./resources/me.jpg" alt="Kumud Porte" width="460.8" height="207.6" style="border-radius: 10px; box-shadow: 0 0 5px rgba(0,0,0,0.3);" />
 </p>
 
 # Kumud Singh Porte
